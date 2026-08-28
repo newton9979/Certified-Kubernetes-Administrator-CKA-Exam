@@ -19,6 +19,23 @@ The goal is not just to learn Kubernetes commands. The goal is:
 > **"Give me a broken Kubernetes cluster and I can find and fix the problem."**
 
 ---
+# 🧠 Your Daily CKA Routine
+
+Since you want **more practice**, use this routine every day:
+
+| Time | Activity | Focus |
+|---|---|---|
+| 🕕 6:00 – 8:00 AM | 📚 Theory + Notes | Learn concepts, read documentation, make short notes |
+| 🕗 8:00 – 9:00 AM | ☕ Break | Breakfast / Rest |
+| 🕘 9:00 AM – 12:00 PM | 🔥 Hands-on Labs | Kubernetes commands, YAML, cluster practice |
+| 🕛 12:00 – 1:00 PM | 🍱 Lunch | Lunch + Break |
+| 🕐 1:00 – 3:00 PM | 🔥 CKA Scenario-Based Tasks | Real-world CKA exam-style tasks |
+| 🕒 3:00 – 4:00 PM | ☕ Break | Rest / Refresh |
+| 🕓 4:00 – 6:00 PM | 🔥 Troubleshooting | Pods, Nodes, Services, DNS, Networking, Storage |
+| 🕕 6:00 – 7:00 PM | 🍽️ Break | Dinner / Rest |
+| 🕖 7:00 – 9:00 PM | ⏱️ Timed CKA Tasks | Practice under exam time pressure |
+| 🕘 9:00 – 10:00 PM | 🧠 Revision + Commands | Revise mistakes, commands, YAML and troubleshooting |
+---
 
 # 📚 CKA Curriculum
 
